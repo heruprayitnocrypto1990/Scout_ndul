@@ -1,4 +1,3 @@
-``json
 {
   "universe": {
     "top_n": 100,
@@ -61,7 +60,7 @@
     "defillama": "https://api.llama.fi/"
   },
   "notify": {
-    "discord": true,
+    "discord": false,
     "discord_username": "analis-bot",
     "discord_max_chars": 1900,
     "telegram": false
