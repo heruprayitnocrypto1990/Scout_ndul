@@ -54,7 +54,7 @@
     "coingecko_page_sec": 2.0
   },
   "sources": {
-    "binance": ["https://api.binance.com/api/v3/"],
+    "binance": ["https://data-api.binance.vision/api/v3/"],
     "coingecko": "https://api.coingecko.com/api/v3/",
     "cryptoquant": "https://api.cryptoquant.com/v1/",
     "defillama": "https://api.llama.fi/"
